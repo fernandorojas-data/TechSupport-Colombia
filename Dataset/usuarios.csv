@@ -1,0 +1,501 @@
+﻿id_usuario,nombre,ciudad,area,cargo,fecha_ingreso
+1,María Jimena Gutiérrez Rodríguez,Barranquilla,Finanzas,Analista,2025-09-20
+2,Leidy Carol García,Bogotá,Recursos Humanos,Especialista,2024-12-03
+3,Gladys María Álvarez,Bucaramanga,Recursos Humanos,Gerente,2023-06-05
+4,Carlos García,Cali,Comercial,Coordinador,2023-03-10
+5,Elena María Gallego,Bogotá,Compras,Supervisor,2022-11-09
+6,Yamile Flórez,Medellín,Comercial,Líder,2022-10-24
+7,Alexandra Camacho,Cali,Tecnología,Especialista,2021-03-22
+8,María Herrera Ramos,Bucaramanga,Logística,Analista,2022-03-10
+9,Claudia Córdoba,Bucaramanga,Compras,Gerente,2023-01-19
+10,Ramiro Camilo León,Bucaramanga,Jurídica,Gerente,2018-10-28
+11,José Martínez Quintero,Cartagena,Jurídica,Especialista,2024-11-14
+12,Tulia Carmona Duque,Pereira,Logística,Gerente,2025-04-24
+13,Yina Rodríguez Chávez,Manizales,Operaciones,Coordinador,2021-06-24
+14,Duván Benjamín Ortega Salgado,Bucaramanga,Logística,Auxiliar,2023-07-19
+15,Julián Martínez Muñoz,Bucaramanga,Logística,Auxiliar,2025-04-11
+16,Claudia Daniela López,Barranquilla,Tecnología,Auxiliar,2018-07-14
+17,Francisco Jiménez Sandoval,Manizales,Finanzas,Auxiliar,2024-08-14
+18,Elvira Orozco,Cali,Gerencia,Especialista,2025-04-23
+19,Jhon Edilberto Barrios Alzate,Pereira,Tecnología,Analista,2020-01-09
+20,Yesid Edgar Muñoz Jiménez,Barranquilla,Marketing,Supervisor,2021-11-29
+21,Hernando David Ocampo,Manizales,Marketing,Especialista,2022-07-30
+22,Verónica Guevara Ramírez,Bogotá,Logística,Coordinador,2021-05-23
+23,Luis Andrés Ramírez,Pereira,Logística,Supervisor,2020-08-29
+24,Elkin Robinson Castro,Bucaramanga,Jurídica,Coordinador,2024-01-13
+25,Vanessa Flor González Angulo,Medellín,Compras,Gerente,2019-12-23
+26,María Liliana Guerrero Mora,Barranquilla,Logística,Supervisor,2020-08-19
+27,Andrés Puentes García,Manizales,Recursos Humanos,Auxiliar,2023-12-22
+28,Darío Márquez,Barranquilla,Logística,Supervisor,2022-06-05
+29,Alberto Suárez,Barranquilla,Comercial,Especialista,2018-06-27
+30,Consuelo Luisa Bohórquez,Cartagena,Tecnología,Supervisor,2026-02-01
+31,Alberto Ángel López,Cartagena,Logística,Gerente,2025-03-21
+32,Lucía Alejandra García Sarmiento,Cartagena,Operaciones,Especialista,2019-06-29
+33,Maribel Ana Álvarez,Pereira,Marketing,Gerente,2022-09-25
+34,Hernando Melo,Barranquilla,Gerencia,Supervisor,2021-08-05
+35,Pedro Serna,Pereira,Tecnología,Auxiliar,2026-01-03
+36,Armando Martín Rojas Mena,Bucaramanga,Finanzas,Analista,2020-12-23
+37,Fabio Enrique Vergara Romero,Cali,Logística,Gerente,2022-03-01
+38,Alfonso Sarmiento Álvarez,Cartagena,Marketing,Líder,2019-11-08
+39,José Steven Bernal,Cali,Marketing,Supervisor,2023-06-15
+40,Luz Morales Castillo,Medellín,Compras,Supervisor,2022-02-24
+41,Fernando Miguel Ángel,Barranquilla,Gerencia,Analista,2024-04-06
+42,Ángel Steven Rodríguez,Bogotá,Logística,Coordinador,2019-10-14
+43,Margarita Delgado,Medellín,Operaciones,Líder,2021-03-14
+44,Carlos Daniel Castellanos,Pereira,Recursos Humanos,Coordinador,2025-12-12
+45,Andrés Carlos Mendoza Bermúdez,Cali,Gerencia,Gerente,2025-03-05
+46,Marina Aura Sánchez Castellanos,Pereira,Comercial,Coordinador,2021-10-19
+47,María Mosquera,Medellín,Finanzas,Líder,2024-11-22
+48,Fabio Romero Quintero,Cali,Logística,Líder,2022-11-03
+49,Javier Alexander Hurtado Vargas,Bucaramanga,Operaciones,Gerente,2021-02-19
+50,Julián Hernando Álvarez,Pereira,Tecnología,Especialista,2026-04-21
+51,María Giraldo,Medellín,Compras,Coordinador,2021-02-10
+52,Elizabeth Catalina López,Bogotá,Operaciones,Coordinador,2019-02-06
+53,Antonio López Díaz,Cali,Recursos Humanos,Auxiliar,2020-12-08
+54,Marta Yolanda Narváez,Pereira,Operaciones,Líder,2018-07-15
+55,Cristhian Felipe Castrillón,Bogotá,Marketing,Gerente,2018-11-05
+56,Andrés Roberto Bedoya Cáceres,Bogotá,Finanzas,Auxiliar,2018-08-20
+57,Néstor Mario Cruz Muñoz,Bucaramanga,Marketing,Supervisor,2022-11-04
+58,Dario Luis Perdomo,Cali,Comercial,Líder,2021-12-07
+59,Enrique García,Medellín,Jurídica,Coordinador,2021-10-30
+60,Alfonso Duarte,Manizales,Gerencia,Auxiliar,2025-06-05
+61,Leonel Alexander Caicedo Palacios,Medellín,Logística,Especialista,2019-08-07
+62,Alfonso Camilo Mendoza Sánchez,Cali,Finanzas,Analista,2024-06-24
+63,Liliana Nubia Ospino,Bogotá,Comercial,Líder,2019-07-07
+64,Juan Ovidio Becerra,Medellín,Gerencia,Supervisor,2018-07-07
+65,José Óscar García,Pereira,Comercial,Analista,2024-02-06
+66,Ricardo Ojeda,Bucaramanga,Marketing,Líder,2021-06-27
+67,Laura Rosa Mora Lara,Medellín,Marketing,Coordinador,2021-11-19
+68,Lucía Isabel Méndez,Medellín,Jurídica,Gerente,2019-01-05
+69,Cristina Esperanza Pinzón,Barranquilla,Comercial,Coordinador,2019-07-10
+70,Carlos Galeano,Pereira,Gerencia,Gerente,2018-06-30
+71,Ángela Salgado,Barranquilla,Tecnología,Coordinador,2025-07-22
+72,Jaime Diego Cruz,Bogotá,Comercial,Líder,2026-05-08
+73,Carlos Triana Sepúlveda,Barranquilla,Gerencia,Especialista,2019-08-17
+74,Jesús Navarro,Cartagena,Compras,Supervisor,2021-03-20
+75,Alfonso Ignacio Melo Londoño,Cali,Logística,Auxiliar,2020-08-06
+76,Álvaro Alejandro Ruiz,Medellín,Compras,Líder,2025-05-05
+77,Marleny Gamboa,Bogotá,Compras,Coordinador,2020-09-01
+78,Marcela Franco,Cali,Finanzas,Analista,2026-03-25
+79,Juan Alfonso Leal García,Cartagena,Comercial,Líder,2024-09-08
+80,María Villamizar,Medellín,Marketing,Coordinador,2021-04-26
+81,Ismael Andrés Rodríguez,Cali,Recursos Humanos,Líder,2020-04-20
+82,María Milena Gómez Acosta,Medellín,Jurídica,Especialista,2025-11-08
+83,Ana Nidia Barrios Córdoba,Medellín,Operaciones,Supervisor,2020-05-07
+84,José Edwin Silva Acevedo,Cartagena,Gerencia,Auxiliar,2022-06-05
+85,Fernanda Inés Gaviria Palacios,Pereira,Comercial,Auxiliar,2026-05-26
+86,Andrea Benavides,Cali,Marketing,Gerente,2019-02-12
+87,Walter Olaya Parra,Cartagena,Operaciones,Especialista,2018-10-14
+88,Alba Zapata,Manizales,Comercial,Supervisor,2019-10-15
+89,César Juan Barrios,Cartagena,Logística,Analista,2023-09-04
+90,Luz Inés Méndez,Barranquilla,Compras,Supervisor,2018-12-09
+91,Ángel Ortiz,Pereira,Jurídica,Auxiliar,2023-07-12
+92,Marina Gómez,Manizales,Logística,Auxiliar,2024-02-14
+93,Paola Alejandra Peña,Barranquilla,Recursos Humanos,Especialista,2025-08-06
+94,Patricia Alejandra Moreno,Barranquilla,Finanzas,Gerente,2022-01-24
+95,Ingrid Mariana Mendoza Hernández,Cali,Marketing,Coordinador,2024-08-03
+96,Alejandra María García,Bogotá,Compras,Coordinador,2026-03-21
+97,Luz García Chávez,Pereira,Operaciones,Supervisor,2024-05-29
+98,Jairo Delgado,Cartagena,Marketing,Auxiliar,2020-01-28
+99,Gustavo Eder Hoyos García,Bogotá,Comercial,Auxiliar,2019-02-13
+100,Alirio Mosquera,Bucaramanga,Finanzas,Coordinador,2018-06-28
+101,Wilson Suárez,Manizales,Logística,Gerente,2023-02-23
+102,Sebastián Germán Bravo Rodríguez,Medellín,Marketing,Líder,2019-09-24
+103,Alberto Johan Vergara,Pereira,Comercial,Coordinador,2023-03-21
+104,Yeison León Ramírez,Cartagena,Recursos Humanos,Supervisor,2022-10-22
+105,María Martha García López,Manizales,Logística,Analista,2025-05-10
+106,Fernando Andrade Rueda,Pereira,Tecnología,Coordinador,2023-03-02
+107,Óscar Jorge Acosta Rincón,Medellín,Compras,Coordinador,2023-01-15
+108,Germán Vásquez Ortega,Bucaramanga,Jurídica,Especialista,2023-06-13
+109,Nelson Óscar Mosquera,Cartagena,Recursos Humanos,Gerente,2021-01-10
+110,Catalina Elena Valencia,Pereira,Tecnología,Gerente,2025-02-28
+111,Adriana Pulido Soto,Cali,Recursos Humanos,Especialista,2023-01-13
+112,Manuel Gilberto Giraldo Pérez,Barranquilla,Recursos Humanos,Auxiliar,2023-01-17
+113,María Hurtado,Pereira,Compras,Gerente,2023-11-08
+114,Amanda Torres,Barranquilla,Comercial,Coordinador,2025-05-15
+115,Jairo García Mosquera,Cali,Operaciones,Supervisor,2025-01-16
+116,Marcela Ruiz,Medellín,Comercial,Coordinador,2022-06-13
+117,Martha Torres Cantillo,Bucaramanga,Recursos Humanos,Analista,2019-04-20
+118,Carlos Sánchez Ortiz,Cartagena,Comercial,Analista,2021-03-15
+119,Gustavo Hernando Sepúlveda Pérez,Cartagena,Gerencia,Coordinador,2024-05-28
+120,Jesús Francisco Hernández,Cartagena,Compras,Líder,2022-07-16
+121,Jhoana Alvarado,Bogotá,Jurídica,Líder,2023-01-08
+122,Luz Paola Corredor Reyes,Barranquilla,Tecnología,Auxiliar,2020-01-25
+123,María Flórez Gutiérrez,Medellín,Recursos Humanos,Supervisor,2020-06-24
+124,Felipe Ariza,Pereira,Recursos Humanos,Analista,2021-03-24
+125,Mario Estrada Daza,Bucaramanga,Marketing,Coordinador,2023-04-28
+126,Adriana Londoño González,Pereira,Compras,Gerente,2019-09-06
+127,Claudia Maira Sandoval,Cali,Finanzas,Gerente,2025-12-21
+128,María Wendy Benavides Gómez,Manizales,Jurídica,Analista,2019-04-04
+129,Fernando Alberto Ramírez,Manizales,Jurídica,Líder,2025-07-14
+130,César Gómez Vargas,Medellín,Comercial,Líder,2020-08-14
+131,Rafael Rodríguez Montoya,Cartagena,Tecnología,Líder,2025-11-08
+132,Aleida Villamil Murillo,Pereira,Logística,Especialista,2025-08-19
+133,Lucía Vega,Medellín,Recursos Humanos,Líder,2020-04-12
+134,Fabián Julián Gómez Carvajal,Cali,Gerencia,Supervisor,2025-11-09
+135,Elkin Garzón,Bogotá,Marketing,Coordinador,2024-05-22
+136,Sonia Giraldo,Cartagena,Compras,Auxiliar,2024-01-12
+137,Manuel Andrés Ramírez,Bucaramanga,Marketing,Analista,2026-05-02
+138,Johanna Chávez Orozco,Bogotá,Gerencia,Auxiliar,2023-05-11
+139,Germán Gómez,Bogotá,Tecnología,Supervisor,2023-08-08
+140,Francisco Arroyo Corredor,Pereira,Marketing,Supervisor,2026-02-25
+141,Ricardo José Ríos Álvarez,Cali,Tecnología,Líder,2026-03-02
+142,Carolina Torres,Pereira,Recursos Humanos,Líder,2023-08-11
+143,María Yeimy Valderrama,Bogotá,Compras,Gerente,2022-03-06
+144,Andrea Cecilia Castrillón,Bucaramanga,Gerencia,Supervisor,2023-02-21
+145,Elsa Gómez González,Cartagena,Logística,Gerente,2025-11-02
+146,Norberto Duque,Bucaramanga,Recursos Humanos,Auxiliar,2026-03-23
+147,Alberto Alfredo Rodríguez,Bogotá,Recursos Humanos,Analista,2019-10-29
+148,Argemiro Barrios,Pereira,Jurídica,Gerente,2020-01-05
+149,Gerardo Cristian González,Cali,Gerencia,Auxiliar,2024-08-26
+150,María Sandoval Pacheco,Bogotá,Recursos Humanos,Gerente,2019-02-23
+151,Deisy Pinzón Bautista,Cali,Recursos Humanos,Coordinador,2018-07-07
+152,Daniel Ignacio Alzate Guzmán,Barranquilla,Comercial,Auxiliar,2026-05-13
+153,Jaime Edinson Castellanos,Pereira,Finanzas,Analista,2024-02-06
+154,José García Velasco,Pereira,Comercial,Supervisor,2024-07-17
+155,Julio Osorio,Pereira,Operaciones,Gerente,2019-03-19
+156,Deisy Diana Orozco,Barranquilla,Finanzas,Supervisor,2023-02-15
+157,Carlos Gaitán Fernández,Cali,Marketing,Analista,2022-03-22
+158,Fernanda Escobar Contreras,Manizales,Compras,Gerente,2024-10-03
+159,Mariana Gallego Gómez,Manizales,Gerencia,Coordinador,2024-06-18
+160,Diego Díaz Camacho,Pereira,Jurídica,Gerente,2020-08-12
+161,María Ríos Parra,Bucaramanga,Logística,Coordinador,2024-06-28
+162,Raquel Viviana Ruiz,Bogotá,Comercial,Especialista,2019-04-22
+163,Moisés Zapata Ramírez,Medellín,Logística,Analista,2018-11-05
+164,Eliana Campo Pérez,Cartagena,Marketing,Coordinador,2026-04-01
+165,Kevin Alexander Hurtado,Medellín,Jurídica,Analista,2019-09-15
+166,Gerson Gómez,Medellín,Operaciones,Auxiliar,2019-10-17
+167,Yamile Perdomo Carrillo,Cartagena,Gerencia,Analista,2025-10-25
+168,María Diana Moreno,Cali,Finanzas,Analista,2022-07-10
+169,Andrea Adriana Gómez Salgado,Medellín,Tecnología,Coordinador,2021-09-25
+170,Mario Valencia,Cali,Comercial,Supervisor,2019-01-13
+171,Adriana Calderón Cardozo,Manizales,Operaciones,Analista,2023-03-10
+172,Humberto Jhonatan Sandoval,Barranquilla,Tecnología,Gerente,2025-11-14
+173,Carlos Peña Cano,Medellín,Tecnología,Líder,2022-11-07
+174,Gloria Chaparro Maldonado,Bucaramanga,Jurídica,Supervisor,2021-02-20
+175,Ruth Yeny Vanegas Camargo,Pereira,Comercial,Auxiliar,2019-01-12
+176,Carlos Carlos Cortés Osorio,Pereira,Finanzas,Coordinador,2022-01-07
+177,Óscar Luis Niño Peña,Bogotá,Gerencia,Analista,2022-07-03
+178,Alexander David Ruiz,Pereira,Jurídica,Líder,2019-07-09
+179,Karina Roa,Bucaramanga,Jurídica,Líder,2024-11-11
+180,Lucía Hoyos Mejía,Medellín,Operaciones,Gerente,2018-06-09
+181,Luis Leonel Sarmiento Cabrera,Cartagena,Marketing,Gerente,2023-02-03
+182,Pedro Antonio Díaz Ramírez,Medellín,Gerencia,Especialista,2018-08-22
+183,David Mario Ramírez,Cartagena,Compras,Auxiliar,2022-05-13
+184,Camilo Cardona,Cartagena,Marketing,Especialista,2024-07-16
+185,Esteban Alejandro Vega,Cartagena,Operaciones,Líder,2024-05-09
+186,Andrés Carlos Galeano,Cartagena,Gerencia,Gerente,2019-01-22
+187,Leonardo Camilo Serna Rodríguez,Bogotá,Marketing,Líder,2019-07-29
+188,María Mercedes Granados,Pereira,Logística,Auxiliar,2019-11-15
+189,Viviana Ana Roa,Cartagena,Finanzas,Líder,2018-11-04
+190,Juan Milton Arias Montes,Bogotá,Operaciones,Supervisor,2019-01-15
+191,Martín César Sánchez,Cartagena,Logística,Coordinador,2020-04-24
+192,Diego Torres,Bogotá,Jurídica,Líder,2019-09-25
+193,Yuly Mariana Romero,Bucaramanga,Gerencia,Auxiliar,2018-11-05
+194,Leonardo Delgado,Cartagena,Recursos Humanos,Especialista,2022-06-24
+195,Elsy Cuéllar,Bogotá,Operaciones,Auxiliar,2018-12-06
+196,José Bastidas,Bogotá,Jurídica,Analista,2024-12-26
+197,Andrés Ramírez,Bucaramanga,Tecnología,Coordinador,2019-11-12
+198,Daniel Edison Forero Díaz,Bogotá,Operaciones,Auxiliar,2026-04-03
+199,Alfonso Edinson Castañeda Acosta,Bucaramanga,Recursos Humanos,Coordinador,2019-07-10
+200,María María Quiroga,Manizales,Logística,Especialista,2022-07-31
+201,Jorge Ocampo Suárez,Medellín,Recursos Humanos,Líder,2019-02-28
+202,Andrés Osorio,Manizales,Tecnología,Coordinador,2025-01-28
+203,Patricia Iris Fonseca,Bogotá,Finanzas,Auxiliar,2019-03-25
+204,Angie Gallego,Cali,Recursos Humanos,Analista,2025-01-31
+205,Ángel Fabián Prada González,Bucaramanga,Logística,Especialista,2025-08-15
+206,Paulo Guillermo Chávez,Manizales,Operaciones,Gerente,2021-11-28
+207,Juan Carlos Flórez Reyes,Cartagena,Tecnología,Supervisor,2024-04-18
+208,Clara Henao Gómez,Bucaramanga,Gerencia,Especialista,2019-02-27
+209,Luis Pablo Ortega Jiménez,Cali,Comercial,Supervisor,2023-09-13
+210,José Edinson Quintero,Manizales,Recursos Humanos,Auxiliar,2019-10-13
+211,Emilio Pérez,Bogotá,Tecnología,Especialista,2020-10-23
+212,Margarita Sandra Salazar Hernández,Barranquilla,Finanzas,Especialista,2022-11-02
+213,Ángel Andrés Ortega,Medellín,Comercial,Especialista,2023-10-23
+214,Ángel Sánchez Hernández,Manizales,Logística,Coordinador,2025-10-29
+215,Cristian Muñoz Cifuentes,Bucaramanga,Operaciones,Supervisor,2018-12-23
+216,Ana Erazo Rodríguez,Bogotá,Compras,Líder,2023-04-18
+217,Judith Luz Rojas,Medellín,Tecnología,Líder,2021-06-09
+218,Jesús José Álvarez Miranda,Cali,Operaciones,Especialista,2021-01-29
+219,Rafael Felipe Ospina,Bucaramanga,Finanzas,Especialista,2021-11-16
+220,Juan González,Medellín,Comercial,Analista,2021-03-22
+221,David Wilmer Torres,Cali,Logística,Líder,2021-11-10
+222,Tatiana Gutiérrez Angulo,Medellín,Finanzas,Coordinador,2018-11-01
+223,Mayerly María Ramírez,Bogotá,Marketing,Especialista,2023-04-08
+224,Luis Antonio Obando Mora,Manizales,Tecnología,Gerente,2022-04-13
+225,Eduardo Escobar,Medellín,Marketing,Líder,2021-09-07
+226,Yolanda Fernanda Daza Cortés,Manizales,Marketing,Supervisor,2019-07-27
+227,Jairo Juan Caro,Cartagena,Gerencia,Coordinador,2025-03-23
+228,Luis Ocampo Parra,Bucaramanga,Comercial,Analista,2026-05-26
+229,Andrea Ramos Tamayo,Barranquilla,Operaciones,Gerente,2018-10-06
+230,Liliana Morales,Bucaramanga,Operaciones,Gerente,2024-10-10
+231,Alejandro Castro Moreno,Bucaramanga,Jurídica,Auxiliar,2024-08-09
+232,Edward Fernando Perea Medina,Barranquilla,Finanzas,Coordinador,2023-03-02
+233,Jorge Esteban López,Cali,Compras,Analista,2023-05-29
+234,Luz Forero,Manizales,Marketing,Coordinador,2026-04-17
+235,Julián Bravo Caro,Medellín,Finanzas,Supervisor,2023-04-07
+236,Sandra Vergara Calderón,Barranquilla,Jurídica,Supervisor,2021-04-13
+237,Lucy Villa,Barranquilla,Tecnología,Supervisor,2024-11-25
+238,Carmen Bernal,Medellín,Jurídica,Líder,2019-04-16
+239,Jair John Hernández,Pereira,Recursos Humanos,Analista,2025-11-28
+240,Julián Gallego Figueroa,Bucaramanga,Marketing,Especialista,2024-08-26
+241,Paola Angie Cárdenas Ordóñez,Manizales,Recursos Humanos,Auxiliar,2022-12-03
+242,José Ramírez Molina,Bogotá,Gerencia,Líder,2025-06-08
+243,María Palacios,Bucaramanga,Jurídica,Coordinador,2019-10-16
+244,María Martha Ramos Velásquez,Manizales,Recursos Humanos,Analista,2024-02-01
+245,Mayerly González Martínez,Cali,Logística,Especialista,2023-08-03
+246,Steven Leonardo Reyes Gallego,Barranquilla,Finanzas,Coordinador,2020-08-12
+247,Juan García Rodríguez,Barranquilla,Comercial,Especialista,2023-05-07
+248,Edilma Pérez Ramírez,Cartagena,Finanzas,Analista,2020-07-19
+249,Juan Díaz,Cartagena,Compras,Supervisor,2019-03-26
+250,Jaime Aníbal Vega Espinosa,Pereira,Finanzas,Analista,2024-04-06
+251,Zulma Arrieta,Medellín,Tecnología,Supervisor,2025-12-16
+252,Nelly Castañeda Parra,Barranquilla,Comercial,Auxiliar,2022-12-15
+253,Carlos Rueda,Medellín,Marketing,Líder,2023-03-31
+254,Óscar Agudelo Flórez,Barranquilla,Finanzas,Supervisor,2025-07-28
+255,Dario Osorio Ángel,Bucaramanga,Operaciones,Gerente,2022-11-10
+256,Angélica Edith Barreto,Pereira,Recursos Humanos,Gerente,2020-10-16
+257,María Giraldo,Barranquilla,Logística,Líder,2024-03-10
+258,Marco Barreto Sepúlveda,Barranquilla,Tecnología,Coordinador,2025-10-25
+259,María Granados León,Medellín,Recursos Humanos,Auxiliar,2022-09-29
+260,Sandra Ríos,Bogotá,Recursos Humanos,Auxiliar,2019-05-02
+261,Nelly Isabel Rodríguez,Manizales,Operaciones,Analista,2024-05-29
+262,Lucero Cárdenas Rodríguez,Manizales,Marketing,Auxiliar,2024-11-07
+263,Socorro Lucía Fuentes Giraldo,Cartagena,Recursos Humanos,Coordinador,2025-07-23
+264,Cristhian Alexander Martínez,Barranquilla,Marketing,Gerente,2022-01-10
+265,Patricia Mónica Contreras,Pereira,Tecnología,Gerente,2020-12-21
+266,Jaider Bermúdez,Cartagena,Operaciones,Coordinador,2025-01-02
+267,Fanny Guerrero Gómez,Cali,Jurídica,Especialista,2025-08-05
+268,Nelly Velasco,Cali,Gerencia,Líder,2025-11-25
+269,Lorena Espitia,Cali,Operaciones,Gerente,2023-08-22
+270,Dora Yudy Pérez,Pereira,Recursos Humanos,Analista,2024-06-20
+271,Henry José Pérez Durán,Medellín,Tecnología,Líder,2021-09-01
+272,Jesús Barrera,Cartagena,Finanzas,Especialista,2022-08-09
+273,Mary Lucero Zapata,Pereira,Jurídica,Supervisor,2025-11-04
+274,Pablo Rincón Vargas,Barranquilla,Comercial,Analista,2019-04-03
+275,Fabio Rafael Hernández Hernández,Cartagena,Comercial,Analista,2018-10-04
+276,Diego Luis García Ruiz,Manizales,Recursos Humanos,Especialista,2022-08-06
+277,Luis Eduardo Burbano,Medellín,Tecnología,Supervisor,2022-07-06
+278,Elsa Ramírez Muñoz,Bucaramanga,Compras,Coordinador,2025-05-03
+279,John Rodríguez Valencia,Cali,Recursos Humanos,Líder,2022-03-22
+280,Pablo Naranjo Flórez,Barranquilla,Jurídica,Coordinador,2020-12-16
+281,María Torres López,Cali,Jurídica,Supervisor,2024-12-16
+282,Carlos Jhon Herrera,Cartagena,Jurídica,Especialista,2025-10-08
+283,Liliana Villegas López,Bucaramanga,Finanzas,Supervisor,2019-06-12
+284,Cecilia Gamboa,Bucaramanga,Operaciones,Líder,2026-02-17
+285,Estiven Arias Muñoz,Barranquilla,Gerencia,Coordinador,2020-06-26
+286,Beatriz Dary Serna Toro,Bogotá,Tecnología,Auxiliar,2019-11-23
+287,Paola García,Bogotá,Gerencia,Analista,2018-12-12
+288,Yuli Garzón González,Manizales,Recursos Humanos,Líder,2021-02-17
+289,Lucila Martínez,Cartagena,Jurídica,Líder,2019-05-29
+290,Carlos Pérez,Cali,Comercial,Gerente,2019-01-11
+291,María Uribe,Medellín,Tecnología,Coordinador,2023-11-22
+292,Pilar Sonia Romero,Barranquilla,Operaciones,Supervisor,2022-03-24
+293,Ovidio Dario Fajardo,Cartagena,Comercial,Auxiliar,2026-04-24
+294,Andrea Pinto,Bogotá,Operaciones,Auxiliar,2023-03-06
+295,Carlos León Ávila,Bogotá,Gerencia,Coordinador,2022-09-02
+296,Jorge Gustavo García Garzón,Cali,Recursos Humanos,Líder,2018-12-21
+297,Maira Sofía Rojas Villamil,Bucaramanga,Finanzas,Auxiliar,2018-11-06
+298,Valeria Luisa Restrepo,Bucaramanga,Operaciones,Especialista,2019-11-02
+299,Germán Eduardo Pardo,Bucaramanga,Comercial,Analista,2020-08-09
+300,Hernán Kevin Delgado,Barranquilla,Comercial,Analista,2021-01-19
+301,José José Andrade Villamil,Manizales,Compras,Auxiliar,2019-10-17
+302,Bibiana Anaya,Barranquilla,Logística,Supervisor,2022-12-27
+303,Daniela Antonia Herrera Acevedo,Pereira,Gerencia,Líder,2021-08-02
+304,Gustavo Pineda Zuluaga,Barranquilla,Compras,Coordinador,2020-09-12
+305,Andrea Orjuela Becerra,Cali,Marketing,Supervisor,2025-05-14
+306,Ángel Luis Pineda Mosquera,Bucaramanga,Operaciones,Líder,2020-07-24
+307,Carmen Paz Cortés,Cali,Logística,Gerente,2022-03-21
+308,Inés Ángela Torres,Bucaramanga,Recursos Humanos,Auxiliar,2019-08-25
+309,José Rojas,Pereira,Marketing,Analista,2020-03-03
+310,Martha Sarmiento Roa,Medellín,Gerencia,Supervisor,2022-04-07
+311,Julio Elmer Quiroz,Bucaramanga,Logística,Coordinador,2025-10-25
+312,Elvis Ramírez Valencia,Cartagena,Gerencia,Supervisor,2024-01-09
+313,David Moreno López,Cartagena,Gerencia,Supervisor,2024-03-05
+314,José Vásquez,Bucaramanga,Comercial,Gerente,2025-06-07
+315,Norma Sánchez,Barranquilla,Tecnología,Líder,2020-06-07
+316,Amparo Flórez Anaya,Cali,Operaciones,Gerente,2018-07-29
+317,Luis Carlos Carvajal,Medellín,Gerencia,Especialista,2021-09-02
+318,Viviana Edith Jaramillo,Barranquilla,Marketing,Líder,2022-08-25
+319,Gregorio Víctor Alfonso,Cali,Gerencia,Gerente,2023-06-08
+320,Luz Julia Rodríguez Camacho,Bucaramanga,Tecnología,Auxiliar,2024-03-06
+321,Verónica Marcela Ruiz,Manizales,Operaciones,Líder,2020-12-17
+322,Antonio Ordóñez Blanco,Barranquilla,Comercial,Líder,2025-07-01
+323,Aleida Gómez,Pereira,Logística,Especialista,2020-05-27
+324,Henry Yepes Jiménez,Cartagena,Gerencia,Líder,2019-07-24
+325,Carlos Velásquez Rodríguez,Bogotá,Tecnología,Líder,2020-04-23
+326,Yerson García Romero,Pereira,Marketing,Analista,2021-03-23
+327,Antonio Salazar Alzate,Pereira,Marketing,Gerente,2024-06-07
+328,Patricia Ruiz,Pereira,Logística,Auxiliar,2019-07-05
+329,Alejandro Henry Polo Castillo,Medellín,Logística,Supervisor,2021-10-20
+330,Cristina Nelly Solano Ortega,Cali,Tecnología,Analista,2020-02-05
+331,María Yepes González,Bucaramanga,Logística,Líder,2025-08-08
+332,Yaneth Carolina García Luna,Manizales,Comercial,Gerente,2024-09-05
+333,Paola Oviedo,Manizales,Marketing,Especialista,2024-09-13
+334,Orlando Guevara García,Pereira,Comercial,Especialista,2024-09-24
+335,Luz Gómez Ayala,Medellín,Jurídica,Gerente,2020-10-22
+336,Alexander Alejandro Ramos Navarro,Medellín,Tecnología,Gerente,2023-04-02
+337,Tatiana Johanna Solano,Bucaramanga,Gerencia,Auxiliar,2019-06-01
+338,Mireya Ávila Sarmiento,Barranquilla,Comercial,Supervisor,2021-09-16
+339,Campo Carlos Martínez,Bucaramanga,Jurídica,Supervisor,2026-02-19
+340,Diego Ever Molina,Manizales,Tecnología,Analista,2021-08-15
+341,Diana Pérez Martínez,Pereira,Finanzas,Líder,2024-01-24
+342,Martha Sandra Cardona Bejarano,Barranquilla,Operaciones,Auxiliar,2024-11-11
+343,Pablo Javier Sandoval,Medellín,Tecnología,Gerente,2020-04-23
+344,Iván López Agudelo,Cartagena,Recursos Humanos,Auxiliar,2020-07-13
+345,Efrén Giraldo Cardona,Medellín,Operaciones,Supervisor,2024-11-21
+346,Esther Josefina Orozco Montes,Cali,Gerencia,Líder,2018-11-04
+347,José Javier Castro,Manizales,Operaciones,Especialista,2022-07-06
+348,Antonio Jairo Pabón Torres,Medellín,Recursos Humanos,Gerente,2019-04-27
+349,Fernando Jhon Duarte,Pereira,Tecnología,Especialista,2024-09-17
+350,Maritza Díaz,Manizales,Compras,Auxiliar,2019-10-31
+351,Diana Delgado,Medellín,Logística,Líder,2021-09-11
+352,William Herrera,Cali,Jurídica,Auxiliar,2021-04-26
+353,Luz Rosa Morales,Pereira,Logística,Líder,2022-02-06
+354,Viviana Ospina Guzmán,Bucaramanga,Operaciones,Auxiliar,2023-11-02
+355,Giovanni Felipe Mosquera Cardona,Cartagena,Logística,Supervisor,2023-05-29
+356,Milena María Solano,Cali,Jurídica,Supervisor,2023-01-15
+357,Magaly Patricia Hernández Gutiérrez,Manizales,Gerencia,Líder,2020-06-12
+358,Sofía Durán Sanabria,Medellín,Jurídica,Líder,2022-08-31
+359,Diana Gil González,Cali,Finanzas,Supervisor,2021-10-31
+360,Andrés Rodríguez,Barranquilla,Marketing,Especialista,2018-07-24
+361,Johana Ceballos,Bogotá,Recursos Humanos,Especialista,2021-02-19
+362,Pilar Luna,Cartagena,Logística,Analista,2025-10-07
+363,Alejandro Álvaro Hurtado Niño,Barranquilla,Recursos Humanos,Supervisor,2019-07-28
+364,Camila Patricia Murillo,Bogotá,Operaciones,Supervisor,2023-06-02
+365,Yamile Sánchez Pulido,Bucaramanga,Jurídica,Auxiliar,2024-05-22
+366,Andrea Arango Miranda,Barranquilla,Tecnología,Auxiliar,2021-06-01
+367,Duván Guillermo Arango,Medellín,Recursos Humanos,Líder,2022-07-12
+368,Aníbal Orlando Pérez Bustos,Bogotá,Recursos Humanos,Líder,2023-06-10
+369,Andrés Alexander Guzmán,Cali,Tecnología,Especialista,2021-05-07
+370,Eduardo Saavedra,Medellín,Marketing,Auxiliar,2021-06-09
+371,Estefanía Gloria Mantilla Herrera,Pereira,Logística,Supervisor,2024-10-08
+372,David Valencia,Cartagena,Gerencia,Coordinador,2020-10-28
+373,Vanessa Marlene Reyes Vargas,Pereira,Finanzas,Especialista,2025-12-25
+374,Leandro Montoya,Barranquilla,Logística,Gerente,2019-04-30
+375,Cristian Eliecer Guzmán Perea,Pereira,Compras,Coordinador,2021-03-22
+376,Sandra Hernández Rico,Medellín,Recursos Humanos,Líder,2021-10-31
+377,Socorro Ibarra,Bogotá,Recursos Humanos,Analista,2022-09-14
+378,Luis Eduardo Corredor Garzón,Cartagena,Jurídica,Gerente,2019-10-05
+379,Karen María Sierra Ríos,Bucaramanga,Recursos Humanos,Especialista,2022-07-24
+380,Isabel Alejandra Salazar Parra,Cali,Gerencia,Auxiliar,2023-05-30
+381,Jaime César Murillo,Medellín,Gerencia,Auxiliar,2018-09-13
+382,Patricia Erika Molina,Manizales,Compras,Supervisor,2020-12-04
+383,Yaneth Ramírez,Cartagena,Marketing,Gerente,2019-06-15
+384,Alejandro Arias Torres,Bucaramanga,Marketing,Especialista,2018-11-26
+385,Ángela Gloria Herrera Fajardo,Cali,Comercial,Analista,2021-01-14
+386,Adolfo Bernardo Torres,Cartagena,Marketing,Especialista,2024-02-12
+387,Adalberto Calderón López,Medellín,Recursos Humanos,Supervisor,2022-05-21
+388,Natalia Sánchez Torres,Pereira,Tecnología,Coordinador,2020-01-31
+389,Wilson Martínez,Cali,Jurídica,Especialista,2024-09-03
+390,Daniel Zambrano,Bogotá,Operaciones,Coordinador,2024-11-05
+391,Patricia Rita Jaramillo,Manizales,Comercial,Auxiliar,2021-11-12
+392,Orlando José González,Bogotá,Recursos Humanos,Especialista,2025-02-01
+393,Arturo Flórez,Barranquilla,Logística,Supervisor,2020-01-30
+394,Antonio Ávila Herrera,Barranquilla,Recursos Humanos,Coordinador,2021-01-12
+395,Cecilia Rosa Agudelo Sanabria,Cali,Finanzas,Líder,2023-04-09
+396,José Brayan Moreno Delgado,Bucaramanga,Gerencia,Auxiliar,2022-01-23
+397,Olga Rivera,Cartagena,Jurídica,Especialista,2019-11-25
+398,Felipe Sebastián Rodríguez Guerrero,Cali,Finanzas,Líder,2026-02-18
+399,Leonel Alberto Ramos Rodríguez,Bucaramanga,Marketing,Analista,2019-05-21
+400,José Arturo Carvajal Gómez,Barranquilla,Marketing,Líder,2020-02-01
+401,María Gómez López,Cali,Gerencia,Auxiliar,2018-07-22
+402,Johanna Astrid Montenegro,Cartagena,Operaciones,Supervisor,2020-08-14
+403,Manuel Moreno López,Pereira,Marketing,Líder,2025-04-13
+404,María Amparo Ortiz Velásquez,Barranquilla,Tecnología,Coordinador,2021-12-03
+405,Alexandra Caicedo Sánchez,Cartagena,Jurídica,Especialista,2022-12-24
+406,Nidia Rangel Gutiérrez,Cali,Marketing,Gerente,2019-09-17
+407,Francisco Daniel Arias Navarro,Cali,Jurídica,Supervisor,2020-11-04
+408,Diana Marcela Rengifo,Cartagena,Comercial,Analista,2018-09-25
+409,Fabio José Rosero,Barranquilla,Gerencia,Coordinador,2026-02-19
+410,Irma Orozco,Barranquilla,Operaciones,Coordinador,2026-06-03
+411,Augusto Franklin Soto Cerón,Barranquilla,Logística,Auxiliar,2021-03-06
+412,Humberto Mejía Martínez,Pereira,Logística,Auxiliar,2024-05-29
+413,Tatiana Paola Herrera,Pereira,Recursos Humanos,Auxiliar,2021-03-09
+414,Juan Cristian Ballesteros Vergara,Barranquilla,Compras,Coordinador,2018-12-13
+415,Camilo Edwin Arias Rodríguez,Bucaramanga,Operaciones,Líder,2024-12-12
+416,Dina Patricia Martínez,Cali,Compras,Gerente,2025-09-15
+417,Julián Rodrigo López,Bucaramanga,Marketing,Líder,2020-05-25
+418,Adrián Óscar Ramírez Cárdenas,Barranquilla,Jurídica,Líder,2025-02-20
+419,Moisés Gustavo Cantillo Álvarez,Cartagena,Jurídica,Auxiliar,2018-10-18
+420,David Quintero Guerrero,Manizales,Compras,Coordinador,2018-07-25
+421,José Rodríguez Yepes,Pereira,Recursos Humanos,Especialista,2022-09-29
+422,Walter Elvis Morales,Pereira,Logística,Coordinador,2023-07-10
+423,Hugo Pulido,Bogotá,Compras,Coordinador,2023-05-08
+424,Carolina Valentina Castillo,Medellín,Gerencia,Líder,2023-08-29
+425,Nelson López Rico,Bogotá,Marketing,Analista,2019-08-29
+426,Andrea Adriana García,Pereira,Finanzas,Especialista,2019-11-07
+427,Anderson Camilo Rojas,Medellín,Gerencia,Especialista,2019-03-22
+428,Lucila Marcela Cardona,Bogotá,Logística,Especialista,2024-11-21
+429,David William Pinto,Medellín,Recursos Humanos,Supervisor,2018-06-21
+430,Fredy Alarcón Marín,Cali,Comercial,Coordinador,2026-03-22
+431,Natalia Lisbeth Rodríguez,Pereira,Recursos Humanos,Líder,2018-09-13
+432,Óscar Fernando Pineda,Pereira,Compras,Supervisor,2019-03-11
+433,Ana Sierra Mantilla,Cartagena,Finanzas,Analista,2018-12-30
+434,Diana Adiela Galeano Rodríguez,Barranquilla,Jurídica,Analista,2023-09-21
+435,Víctor Mejía,Barranquilla,Recursos Humanos,Auxiliar,2020-01-05
+436,Dario Murillo,Medellín,Comercial,Supervisor,2020-07-17
+437,Beatriz Elena González,Bogotá,Jurídica,Líder,2020-02-24
+438,Sergio Manuel García,Manizales,Recursos Humanos,Especialista,2023-08-26
+439,Angie Diana Quiroga Orozco,Pereira,Gerencia,Gerente,2023-06-05
+440,Rubén Ruiz,Barranquilla,Tecnología,Líder,2024-03-19
+441,Ramón Martínez,Bogotá,Marketing,Supervisor,2019-11-07
+442,Orlando Agudelo Arias,Cali,Tecnología,Gerente,2022-07-26
+443,Omar Marín,Cartagena,Operaciones,Coordinador,2020-01-30
+444,Alba Naranjo Pinzón,Medellín,Recursos Humanos,Auxiliar,2025-10-29
+445,Patricia Nubia Narváez Carmona,Cali,Marketing,Supervisor,2022-08-18
+446,Carmen Liliana Pérez,Bogotá,Tecnología,Supervisor,2026-03-26
+447,José Orozco Jiménez,Medellín,Recursos Humanos,Gerente,2024-03-12
+448,Adriana Ayala Villamil,Manizales,Operaciones,Gerente,2022-02-17
+449,Camilo Cortés Herrera,Cartagena,Marketing,Especialista,2024-04-29
+450,Liliana Giraldo Martínez,Pereira,Compras,Analista,2025-02-17
+451,Mauricio Meza,Manizales,Marketing,Coordinador,2026-04-25
+452,Alejandro Angulo,Barranquilla,Compras,Gerente,2021-10-05
+453,Clemencia Martínez,Bogotá,Marketing,Analista,2026-05-09
+454,Guillermo Zapata Vergara,Pereira,Logística,Líder,2020-09-10
+455,Luis Jhon Rodríguez,Cali,Tecnología,Gerente,2026-05-07
+456,Gladys Alexandra Moreno Medina,Bucaramanga,Tecnología,Líder,2023-11-23
+457,Jair Rafael Narváez,Cali,Recursos Humanos,Analista,2021-07-07
+458,Juan Franklin Ardila Muñoz,Pereira,Logística,Líder,2022-05-29
+459,Sergio Dario Restrepo Hoyos,Barranquilla,Logística,Líder,2020-09-03
+460,Hernán Andrés Moreno Sánchez,Cartagena,Jurídica,Supervisor,2020-12-04
+461,Piedad Niño Sánchez,Pereira,Jurídica,Coordinador,2023-07-26
+462,Yair José Hoyos Serrano,Bogotá,Recursos Humanos,Supervisor,2025-03-20
+463,Yolima Muñoz,Cali,Logística,Especialista,2023-12-15
+464,Alexander Melo Rincón,Cali,Jurídica,Coordinador,2020-02-20
+465,Manuel Cortés,Pereira,Logística,Coordinador,2023-11-13
+466,Edna Rocío Rueda Arévalo,Cali,Gerencia,Supervisor,2020-09-23
+467,Juan Quintero Arias,Bogotá,Comercial,Líder,2023-09-17
+468,María María Fuentes,Cartagena,Operaciones,Supervisor,2020-08-23
+469,María Luz Castro Gómez,Pereira,Logística,Especialista,2020-02-07
+470,Andrés Brayan Monsalve,Medellín,Finanzas,Auxiliar,2024-04-05
+471,Harold Prieto,Medellín,Jurídica,Coordinador,2022-06-02
+472,Hernando Sergio Páez,Cartagena,Compras,Líder,2026-02-15
+473,Diego José Giraldo Rangel,Bucaramanga,Compras,Analista,2023-02-19
+474,Hernán Wilson Hoyos Alfonso,Bucaramanga,Logística,Gerente,2021-10-07
+475,Mireya Castaño,Bucaramanga,Tecnología,Líder,2022-01-22
+476,Hernán José Moreno,Bucaramanga,Finanzas,Supervisor,2018-08-05
+477,Antonio Alexander Daza Forero,Medellín,Gerencia,Líder,2024-03-04
+478,Wilson Juan Morales Suárez,Medellín,Finanzas,Especialista,2018-12-30
+479,María Martínez Contreras,Medellín,Logística,Supervisor,2024-07-08
+480,David Jhon Ramírez Ortiz,Cali,Comercial,Auxiliar,2020-04-17
+481,Román Parra Londoño,Manizales,Recursos Humanos,Analista,2025-02-13
+482,Tatiana Flórez,Pereira,Finanzas,Especialista,2023-10-19
+483,María Ibeth Galvis,Bogotá,Compras,Especialista,2021-02-20
+484,Inés María Herrera,Pereira,Finanzas,Líder,2024-12-26
+485,Antonio Mosquera,Bucaramanga,Finanzas,Líder,2019-11-13
+486,Manuel Reyes Moreno,Barranquilla,Compras,Coordinador,2024-08-09
+487,Luis Castillo Franco,Pereira,Operaciones,Líder,2025-09-15
+488,Sergio Ernesto Durán,Cali,Logística,Auxiliar,2021-02-04
+489,Carolina Fanny Osorio Monsalve,Bogotá,Recursos Humanos,Analista,2021-11-13
+490,Luz Molina Galindo,Cali,Gerencia,Supervisor,2025-03-16
+491,María Cardozo Cárdenas,Cali,Comercial,Auxiliar,2020-09-10
+492,César José Aguirre,Medellín,Recursos Humanos,Auxiliar,2019-10-02
+493,Brayan Hernández Molina,Medellín,Compras,Especialista,2021-08-25
+494,Lina Rosero,Cali,Recursos Humanos,Auxiliar,2019-05-03
+495,José Fernando Torres,Manizales,Finanzas,Especialista,2019-12-11
+496,Marcela Morales Rentería,Cali,Compras,Especialista,2025-03-14
+497,Liliana Luz Sánchez,Manizales,Recursos Humanos,Auxiliar,2018-09-19
+498,Claudia Nubia Perdomo Pérez,Bucaramanga,Compras,Coordinador,2020-09-09
+499,Andrea María Buitrago Zapata,Bucaramanga,Recursos Humanos,Supervisor,2018-10-12
+500,Emilio Paz Morales,Pereira,Comercial,Analista,2022-07-20
