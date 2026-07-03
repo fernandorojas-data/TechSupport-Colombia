@@ -176,3 +176,13 @@ Permite el análisis temporal por:
 * Analizar la carga operativa de las áreas con mayor generación de tickets.
 * Optimizar los procesos asociados a las categorías Accesos y Base de Datos.
 * Implementar estrategias de balanceo de carga entre grupos de soporte.
+
+---
+👨‍💻 Autor
+Fernando Arturo Rojas Quiceno
+
+Analista de Datos | Power BI | SQL Server | Python
+
+LinkedIn: www.linkedin.com/in/fernando-rojas-quiceno
+
+GitHub: https://github.com/fernandorojas-data
